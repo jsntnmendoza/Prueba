@@ -1,0 +1,14 @@
+C:\Users\Jose\Documents\Prueba El comercio\Problema01\Problema01\bin\Debug\Problema01.exe.config
+C:\Users\Jose\Documents\Prueba El comercio\Problema01\Problema01\bin\Debug\Problema01.exe
+C:\Users\Jose\Documents\Prueba El comercio\Problema01\Problema01\bin\Debug\Problema01.pdb
+C:\Users\Jose\Documents\Prueba El comercio\Problema01\Problema01\obj\Debug\Problema01.exe
+C:\Users\Jose\Documents\Prueba El comercio\Problema01\Problema01\obj\Debug\Problema01.pdb
+C:\Users\Jose\Documents\Prueba El comercio\GrupoElComercio\Problema01\Problema01\bin\Debug\Problema01.exe.config
+C:\Users\Jose\Documents\Prueba El comercio\GrupoElComercio\Problema01\Problema01\obj\Debug\Problema01.exe
+C:\Users\Jose\Documents\Prueba El comercio\GrupoElComercio\Problema01\Problema01\obj\Debug\Problema01.pdb
+C:\Users\Jose\Documents\Prueba El comercio\GrupoElComercio\Problema01\Problema01\bin\Debug\Problema01.exe
+C:\Users\Jose\Documents\Prueba El comercio\GrupoElComercio\Problema01\Problema01\bin\Debug\Problema01.pdb
+C:\Users\Jose\Documents\Prueba El comercio\GrupoElComercio\Problema01\Problema01\obj\Debug\Problema01.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Documents\El Comercio\Problema01\Problema01\bin\Debug\Problema01.exe.config
+C:\Users\Jose\Documents\El Comercio\Problema01\Problema01\obj\Debug\Problema01.exe
+C:\Users\Jose\Documents\El Comercio\Problema01\Problema01\obj\Debug\Problema01.pdb

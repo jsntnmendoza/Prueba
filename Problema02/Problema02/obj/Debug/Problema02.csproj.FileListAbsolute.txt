@@ -1,0 +1,12 @@
+C:\Users\Jose\Documents\Prueba El comercio\Problema02\Problema02\bin\Debug\Problema02.exe.config
+C:\Users\Jose\Documents\Prueba El comercio\Problema02\Problema02\bin\Debug\Problema02.exe
+C:\Users\Jose\Documents\Prueba El comercio\Problema02\Problema02\bin\Debug\Problema02.pdb
+C:\Users\Jose\Documents\Prueba El comercio\Problema02\Problema02\obj\Debug\Problema02.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Documents\Prueba El comercio\Problema02\Problema02\obj\Debug\Problema02.exe
+C:\Users\Jose\Documents\Prueba El comercio\Problema02\Problema02\obj\Debug\Problema02.pdb
+C:\Users\Jose\Documents\fl\Problema02\Problema02\bin\Debug\Problema02.exe.config
+C:\Users\Jose\Documents\fl\Problema02\Problema02\obj\Debug\Problema02.exe
+C:\Users\Jose\Documents\fl\Problema02\Problema02\obj\Debug\Problema02.pdb
+C:\Users\Jose\Documents\El Comercio\Problema02\Problema02\bin\Debug\Problema02.exe.config
+C:\Users\Jose\Documents\El Comercio\Problema02\Problema02\obj\Debug\Problema02.exe
+C:\Users\Jose\Documents\El Comercio\Problema02\Problema02\obj\Debug\Problema02.pdb

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7D26232B-CD22-4061-9575-8913E46236D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3DE24F7A-B87B-4F7F-B612-C6012BD3C83A}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "WebApiBanco", "src\WebApiBanco\WebApiBanco.xproj", "{BFC56223-1D0F-475E-B84F-C0E1DB5D43EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFC56223-1D0F-475E-B84F-C0E1DB5D43EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC56223-1D0F-475E-B84F-C0E1DB5D43EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC56223-1D0F-475E-B84F-C0E1DB5D43EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC56223-1D0F-475E-B84F-C0E1DB5D43EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BFC56223-1D0F-475E-B84F-C0E1DB5D43EE} = {7D26232B-CD22-4061-9575-8913E46236D5}
+	EndGlobalSection
+EndGlobal
